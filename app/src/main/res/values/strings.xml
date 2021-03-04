@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="easy">Lagano</string>
+    <string name="medium">Srednje</string>
+    <string name="hard">Teško</string>
+    <string name="choose_level">Izaberite težinu:</string>
+    <string name="welcome_note">Dobrodošli u Minesweeper!</string>
+    <string name="prvi">bla</string>
+    <string name="ponovo">Želite li početi ispočetka?</string>
+    <string name="najbolji">Pogledajte svoje najbolje rezultate!</string>
+</resources>
